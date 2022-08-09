@@ -1,2 +1,2 @@
 # portfolio_optimisation
-Implement Mean variance portfolio optimisation for Chalford wealth
+Implement resamples mean variance portfolio optimisation for Chalford wealth
