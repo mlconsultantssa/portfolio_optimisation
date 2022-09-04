@@ -1,1 +1,5 @@
 pandas
+yfinance
+PyPortfolioOpt
+sklearn
+matplotlib
